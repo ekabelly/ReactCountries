@@ -12,10 +12,9 @@ type in nodemon server.js now the server is up.
 
 using the browser, open localhost:5000
 
-in order to start the user's server, use git bash again in that folder type in npm init
-
-npm install wait for the procces to complete
+in order to start the user's server, use git bash again in that folder
 
 type in nodemon app.js
+this server will run on port 4500.
 
 now the user's tab on the app will have data.
