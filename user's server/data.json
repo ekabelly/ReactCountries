@@ -1,0 +1,82 @@
+[
+  {
+    "id": "1",
+    "first_name": "Henderson",
+    "last_name": "Raittie",
+    "email": "hraittie0@nasa.gov",
+    "gender": "Male",
+    "avatar": "img/1.jpg"
+  },
+  {
+    "id": "2",
+    "first_name": "Orsola",
+    "last_name": "Rainsden",
+    "email": "orainsden1@friendfeed.com",
+    "gender": "Female",
+    "avatar": "img/2.jpg"
+  },
+  {
+    "id": "3",
+    "first_name": "Waverley",
+    "last_name": "Ratledge",
+    "email": "wratledge2@narod.ru",
+    "gender": "Male",
+    "avatar": "img/3.jpg"
+  },
+  {
+    "id": "4",
+    "first_name": "Davidde",
+    "last_name": "Reagan",
+    "email": "dreagan3@topsy.com",
+    "gender": "Male",
+    "avatar": "img/4.jpg"
+  },
+  {
+    "id": "5",
+    "first_name": "Christie",
+    "last_name": "Butterly",
+    "email": "cbutterly4@twitter.com",
+    "gender": "Female",
+    "avatar": "img/5.jpg"
+  },
+  {
+    "id": "6",
+    "first_name": "Amaleta",
+    "last_name": "Choulerton",
+    "email": "achoulerton5@yelp.com",
+    "gender": "Female",
+    "avatar": "img/6.jpg"
+  },
+  {
+    "id": "7",
+    "first_name": "Jesse",
+    "last_name": "MacQuarrie",
+    "email": "jmacquarrie6@eventbrite.com",
+    "gender": "Male",
+    "avatar": "img/7.jpg"
+  },
+  {
+    "id": "8",
+    "first_name": "Beverlie",
+    "last_name": "Worham",
+    "email": "bworham7@booking.com",
+    "gender": "Female",
+    "avatar": "img/8.jpg"
+  },
+  {
+    "id": "9",
+    "first_name": "Denis",
+    "last_name": "Ladell",
+    "email": "dladell8@aboutads.info",
+    "gender": "Male",
+    "avatar": "img/9.jpg"
+  },
+  {
+    "id": "10",
+    "first_name": "Harri",
+    "last_name": "Klimczak",
+    "email": "hklimczak9@usgs.gov",
+    "gender": "Female",
+    "avatar": "img/10.jpg"
+  }
+]
