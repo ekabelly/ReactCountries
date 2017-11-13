@@ -8,7 +8,7 @@ npm init
 
 npm install wait for the procces to complete
 
-type in nodemon server.js now the server is up.
+type in npm start. now the server is up.
 
 using the browser, open localhost:5000
 
